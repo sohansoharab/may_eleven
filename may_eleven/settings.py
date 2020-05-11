@@ -33,7 +33,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'quiet-basin-14505',
+    'demoapp911',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
